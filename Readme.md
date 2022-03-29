@@ -25,4 +25,4 @@ O computador ira passar uma sequência de cores, e você deve repeti-las.
 
 ## Link
 
-[site hospedado]()
+[site hospedado](https://jogo-da-memoriagenius.netlify.app/).
